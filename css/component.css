@@ -31,8 +31,8 @@
 	top: 0;
 	left: 0;
 	padding: 42px 22px;
-	background: #304352;
-	color: #ed4e6e;
+	background: rgb(48 67 82 / 70%);
+    color: #fb9bae;
 }
 
 .grid figcaption h1 {

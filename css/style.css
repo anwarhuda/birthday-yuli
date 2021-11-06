@@ -638,7 +638,8 @@ footer {
   #about .col-md-3 img {
     position: relative;
     top: 0;
-    left: 0;
+    left: auto;
+    margin: 0 auto
   }
 
 }
