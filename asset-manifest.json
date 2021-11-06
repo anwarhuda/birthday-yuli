@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/birthday-yuli/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/birthday-yuli/static/js/main.99a062e8.chunk.js",
-    "main.js.map": "/birthday-yuli/static/js/main.99a062e8.chunk.js.map",
+    "main.js": "/birthday-yuli/static/js/main.6f368731.chunk.js",
+    "main.js.map": "/birthday-yuli/static/js/main.6f368731.chunk.js.map",
     "runtime-main.js": "/birthday-yuli/static/js/runtime-main.f6794a7a.js",
     "runtime-main.js.map": "/birthday-yuli/static/js/runtime-main.f6794a7a.js.map",
     "static/js/2.d6e28be0.chunk.js": "/birthday-yuli/static/js/2.d6e28be0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f6794a7a.js",
     "static/js/2.d6e28be0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.99a062e8.chunk.js"
+    "static/js/main.6f368731.chunk.js"
   ]
 }
