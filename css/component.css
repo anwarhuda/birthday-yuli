@@ -94,8 +94,8 @@
 .cs-style-4 figcaption {
 	height: 100%;
 	width: 50%;
-	opacity: 0;
-	-webkit-backface-visibility: hidden;
+	opacity: 1;
+	/* -webkit-backface-visibility: hidden;
 	-moz-backface-visibility: hidden;
 	backface-visibility: hidden;
 	-webkit-transform-origin: 0 0;
@@ -105,7 +105,7 @@
 	-moz-transform: rotateY(-90deg);
 	transform: rotateY(-90deg);
 	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
-	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
+	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s; */
 	transition: transform 0.4s, opacity 0.1s 0.3s;
 }
 
